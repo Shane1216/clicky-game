@@ -1,0 +1,29 @@
+.navbar li {
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .itemLeft {
+    width: 15%;
+  }
+  
+  .itemCenter {
+      width: 70%;
+  }
+  
+  .itemRight {
+    width: 15%;
+  }
+  
+  .navbar {
+    background: black;
+    box-shadow: 0 3px 6px grey, 0 3px 6px grey;
+  }
+  
+  li {
+    color: white;
+  }
+  
+  body {
+    font-size: 24px;
+  }
